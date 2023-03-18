@@ -8,7 +8,7 @@
 git clone https://github.com/yashpyraj/movie_app.git
 ```
 * Open the terminal and navigate to the project directory.
-* Run npm install to install the required dependencies.
+* Run ``` yarn ``` to install the required dependencies.
 * Run ``` expo start ``` to start the Expo development server.
 You can then either run the app on an emulator/simulator or on a physical device:
 To run on an emulator/simulator, click on the Run on Android device/emulator or Run on iOS simulator button in the Expo development server.
